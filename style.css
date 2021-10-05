@@ -9,21 +9,23 @@ html {
 .header { 
 background-color: rgb(115, 11, 184);
 display:inline-block;
-height: 20vh;
-width: 100vw;
+height: 90px;
+width: 100%;
 }
 .header-logo {
 display: inline-block;
-height: 90%;
-width: 10%;
+height: 80%;
+width: 5%;
 margin: 2px;
+margin-left: 30px;
+margin-top: 10px;
 }
 .header-nav {
 display: inline-block;
 list-style: none;
 position: relative;
 margin-left: 1150px;
-bottom: 90px;
+bottom: 60px;
 }    
 .header-nav__item {
 position:relative;
@@ -40,8 +42,8 @@ margin-bottom: 70px;
 position: relative;
 display: inline-block;
 width: 75%;
-height: 633px;
-bottom: 35px;
+height: 640px;
+bottom: 40px;
 background-color: rgb(252, 63, 151);
 left: 25%;
 }
@@ -60,8 +62,8 @@ background-color: cyan;
 position: relative;
 display: inline-block;
 width: 25%;
-height: 633px;
-bottom: 667px;
+height: 640px;
+bottom: 680px;
 }
 .aside-div__1{
 background-color: orchid;
@@ -71,6 +73,7 @@ height: 20%;
 margin: 10px;
 width: 55%;
 margin: 10px;
+margin-top: 40px;
 border-style:ridge;
 border-radius: 18px;
 }
