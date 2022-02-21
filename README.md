@@ -1,2 +1,1 @@
-# layout1
-Platzi's practice
+Site: https://helenadestroy.github.io/Layout1/
